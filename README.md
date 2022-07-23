@@ -21,6 +21,7 @@ Reasons to accept Bitcoin
 - [Oshi: Empower your local economy through Bitcoin](https://www.oshiapp.com)
 - Lightning
 - [BTCPayServer: Start Accepting Bitcoin Payments With 0% Fees & No Third-party](http://btcpayserver.org)
+- [CoinCorner](https://www.coincorner.com/Checkout)
 
 # Who Accepts Bitcoin
 
